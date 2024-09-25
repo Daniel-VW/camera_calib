@@ -1,2 +1,2 @@
 # camera_calib
-Simple camera calibration tool.
+Simple camera calibration tool
